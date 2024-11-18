@@ -7,4 +7,4 @@ Hi, I am an intern at Mühlbauer Automation GmbH. My main programming language i
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinoskilol&show_icons=true&locale=en" alt="dinoskilol" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinoskilol&" alt="dinoskilol" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinoskilol&" alt="dinoskilol" /></p>
