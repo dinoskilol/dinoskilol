@@ -5,6 +5,4 @@
 
 Hi, I am an intern at Mühlbauer Automation GmbH. I dabble in C#, C++, JavaScript and my affinity is for Frontend.
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinoskilol&show_icons=true&locale=en" alt="dinoskilol" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinoskilol&" alt="dinoskilol" /></p>
