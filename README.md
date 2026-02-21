@@ -5,9 +5,8 @@
 
 Hi, I am an intern at Mühlbauer Automation GmbH. I dabble in C#, C++, JavaScript and my affinity is for Frontend.
 My current projects are:
-- Portfolio
-- Dinonomicon, my front-facing personal knowledge blog
-- Azubot, a platform for Azubis
-- PS-Companion, a trophy hunting assistant with LLM integration
+- **[Portfolio](https://dinoskilol.github.io)**
+- **[Dinonomicon](https://dinoskilol.github.io/Dinonomicon/)**, my front-facing personal knowledge blog
+- **[Azubot](https://dinoskilol.github.io/azubot/)**, a platform for Azubis
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinoskilol&" alt="dinoskilol" /></p>
