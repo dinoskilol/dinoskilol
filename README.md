@@ -7,6 +7,7 @@ Hi, I am an intern at Mühlbauer Automation GmbH. I dabble in C#, C++, JavaScrip
 My current projects are:
 - **[Portfolio](https://dinoskilol.github.io)**
 - **[Dinonomicon](https://dinoskilol.github.io/Dinonomicon/)**, my front-facing personal knowledge blog
-- **[Azubot](https://dinoskilol.github.io/azubot/)**, a platform for Azubis
+-  <img src="https://github.com/dinoskilol/azubot/blob/production/client/public/azubot-logo.png?raw=true" width="20">
+ **[Azubot](https://dinoskilol.github.io/azubot/)**, a platform for Azubis
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinoskilol&" alt="dinoskilol" /></p>
