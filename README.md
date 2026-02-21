@@ -6,7 +6,7 @@
 Hi, I am an intern at Mühlbauer Automation GmbH. I dabble in C#, C++, JavaScript and my affinity is for Frontend.
 My current projects are:
 - **[Portfolio](https://dinoskilol.github.io)**
-- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Feed-icon.svg/1280px-Feed-icon.svg.png" width="20">**[Dinonomicon](https://dinoskilol.github.io/Dinonomicon/)**, my front-facing personal knowledge blog
-- <img src="https://github.com/dinoskilol/azubot/blob/production/client/public/azubot-logo.png?raw=true" width="20"> **[Azubot](https://dinoskilol.github.io/azubot/)**, a platform for Azubis
+- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Feed-icon.svg/1280px-Feed-icon.svg.png" width="16"> **[Dinonomicon](https://dinoskilol.github.io/Dinonomicon/)**, my front-facing personal knowledge blog
+- <img src="https://github.com/dinoskilol/azubot/blob/production/client/public/azubot-logo.png?raw=true" width="16"> **[Azubot](https://dinoskilol.github.io/azubot/)**, a platform for Azubis
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinoskilol&" alt="dinoskilol" /></p>
