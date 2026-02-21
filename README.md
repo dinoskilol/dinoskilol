@@ -7,6 +7,6 @@ Hi, I am an intern at Mühlbauer Automation GmbH. I like to make cool looking we
 My current projects are:
 - <img src="https://cdn-icons-png.flaticon.com/512/9187/9187532.png" width="16"> **[Portfolio](https://dinoskilol.github.io)** - [Repo](https://github.com/dinoskilol/Dinonomicon)
 - <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Feed-icon.svg/1280px-Feed-icon.svg.png" width="16"> **[Dinonomicon](https://dinoskilol.github.io/Dinonomicon/)**, my front-facing personal knowledge blog - [Repo](https://github.com/dinoskilol/dinoskilol.github.io)
-- <img src="https://github.com/dinoskilol/azubot/blob/production/client/public/azubot-logo.png?raw=true" width="16"> **[Azubot](https://dinoskilol.github.io/azubot/)**, a platform for Azubis - [Repo](https://github.com/dinoskilol/azubot)
+- <img src="https://github.com/dinoskilol/azubot/blob/production/client/public/azubot-logo.png?raw=true" width="16"> **[Azubot](https://dinoskilol.github.io/azubot/)**, a collection of AI-powered modules for Azubis - [Repo](https://github.com/dinoskilol/azubot)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinoskilol&" alt="dinoskilol" /></p>
