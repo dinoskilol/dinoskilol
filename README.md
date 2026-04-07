@@ -6,7 +6,7 @@ Hi, I am an intern. I like to make aesthetically pleasing frontend. wanna collab
 My current projects are:
 - **[Portfolio](https://dinoskilol.github.io)** - [Repo](https://github.com/dinoskilol/Dinonomicon)
 - **[Dinonomicon](https://dinoskilol.github.io/Dinonomicon/)**, my front-facing personal knowledge blog - [Repo](https://github.com/dinoskilol/dinoskilol.github.io)
-<del>- <img src="https://github.com/dinoskilol/azubot/blob/production/client/public/azubot-logo.png?raw=true" width="16"> **Azubot**, a collection of LLM-powered modules for Azubis - Repo</del> (getting remade, WIP)
+- <del>**Azubot**, a collection of LLM-powered modules for Azubis - Repo</del> (getting remade, WIP)
 - **PS Companion**, a desktop Trophy Assistant using PSN data (WIP)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinoskilol&" alt="dinoskilol" /></p>
