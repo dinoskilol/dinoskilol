@@ -4,7 +4,7 @@
 
 Hi, I am an intern. I like to make aesthetically pleasing frontend. wanna collab or talk to me? @dinoski on Discord :)
 My current projects are:
-- **[Portfolio](https://dinoskilol.github.io)** - [Repo](https://github.com/dinoskilol/Dinonomicon)
+- <del>**[Portfolio](https://dinoskilol.github.io)** - [Repo](https://github.com/dinoskilol/Dinonomicon)</del> (getting remade, WIP)
 - **[Dinonomicon](https://dinoskilol.github.io/Dinonomicon/)**, my front-facing personal knowledge blog - [Repo](https://github.com/dinoskilol/dinoskilol.github.io)
 - <del>**Azubot**, a collection of LLM-powered modules for Azubis - Repo</del> (getting remade, WIP)
 - **PS Companion**, a desktop Trophy Assistant using PSN data (WIP)
