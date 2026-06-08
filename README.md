@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/dinoskilol/dinoskilol.github.io/c4a442b890dfd1a41725a4b23cc08e06a0f8c9cd/public/assets/readme-svg.svg" alt="Hey, it's me — Dino!" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Dino 🦖</h1>
-
 <h3 align="center">Frontend-focused developer intern who enjoys clean, crisp and aesthetic UI.</h3>
 
 <p align="center">
