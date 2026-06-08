@@ -1,5 +1,6 @@
-![Wave divider](http://127.0.0.1:5000/wave?type=sine&width=1200&height=80&amplitude=31&frequency=1&layers=2&color_top=020010&color_bottom=71b235&opacity=1&flip=true&gradient=false&mirror=false&animate=true&speed=6.5&text=Hey%2C+it%27s+me+%E2%80%94+Dino%21&text_bottom=&text_color=ffffff&text_bottom_color=a5b4fc&text_size=50&text_bottom_size=22&text_style=bold&text_stroke_color=000000&text_stroke_width=10&text_scale_x=100&text_scale_y=100&text_x=50&text_y=45&text_gap=26&text_align=middle)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dinoskilol/dinoskilol.github.io/c4a442b890dfd1a41725a4b23cc08e06a0f8c9cd/public/assets/readme-svg.svg" alt="Hey, it's me — Dino!" width="100%">
+</p>
 
 <h1 align="center">Hi 👋, I'm Dino 🦖</h1>
 
@@ -38,5 +39,3 @@ Right now, I am mostly working with **Vue.js**, **Nuxt**, **TypeScript** and mod
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinoskilol" alt="GitHub Streak" />
 </p>
-
-![Wave divider](http://127.0.0.1:5000/wave?type=sine&width=1200&height=80&amplitude=31&frequency=1&layers=2&color_top=020010&color_bottom=71b235&opacity=1&flip=false&gradient=false&mirror=false&animate=true&speed=6.5&text=&text_bottom=&text_color=ffffff&text_bottom_color=a5b4fc&text_size=50&text_bottom_size=22&text_style=bold&text_stroke_color=000000&text_stroke_width=10&text_scale_x=100&text_scale_y=100&text_x=50&text_y=45&text_gap=26&text_align=middle)
