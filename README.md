@@ -9,6 +9,7 @@
 </p>
 
 **About me:**
+
 I'm currently a Software Developer with a strong interest in frontend development, UI design and building clean user experiences.
 I enjoy creating interfaces that feel polished, modern and pleasant to use.  
 
