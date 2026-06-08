@@ -8,6 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=dinoskilol&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+---
+
 **About me:**
 
 I'm currently a Software Developer with a strong interest in frontend development, UI design and building clean user experiences.
@@ -20,11 +22,15 @@ Right now, I am mostly working with **Vue.js**, **Nuxt**, **TypeScript** and mod
 - I like building small tools, dashboards and frontend experiments
 - Want to collaborate or talk? Message me on Discord: **@dinoski**
 
+---
+
 **Techstack:**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,html,css,tailwind,git,github,vscode" />
 </p>
+
+---
 
 **GitHub Stats:**
 
