@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dinoskilol/dinoskilol.github.io/c4a442b890dfd1a41725a4b23cc08e06a0f8c9cd/public/assets/readme-svg.svg" alt="Hey, it's me — Dino!" width="100%">
-</p>
-
 <h3 align="center">Frontend-focused web developer who enjoys clean, crisp and aesthetic UI.</h3>
 
 <p align="center">
