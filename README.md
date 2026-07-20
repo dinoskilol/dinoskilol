@@ -1,32 +1,9 @@
-<h3 align="center">Frontend-focused web developer who enjoys clean, crisp and aesthetic UI.</h3>
+current software dev @ Incore ASM AG<br>
+CTO at [LDK Consulting](https://ldkconsulting.co.uk)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dinoskilol&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=dinoskilol&style=flat-square&label=Profile+views)
 
----
-
-**About me:**
-
-I'm currently a Software Developer with a strong interest in frontend development, UI design and building clean user experiences.
-I enjoy creating interfaces that feel polished, modern and pleasant to use.  
-
-Right now, I am mostly working with **Vue.js**, **Nuxt**, **TypeScript** and modern frontend tooling.
-
-- Interested in aesthetic UI, design systems and clean layouts
-- I like building small tools, dashboards and frontend experiments
----
-
-**Techstack:**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,html,css,tailwind,git,github,vscode" />
-</p>
-
----
-
-**GitHub Stats:**
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinoskilol" alt="GitHub Streak" />
-</p>
+- [visit my portfolio](https://dinoyordanov.com)
+- [see what we build at LDK Consulting](https://ldkconsulting.co.uk)
+- [connect with me on LinkedIn](https://www.linkedin.com/in/dino-yordanov-760468402/)
+- reach me at [dinoyordanov@gmail.com](mailto:dinoyordanov@gmail.com)
